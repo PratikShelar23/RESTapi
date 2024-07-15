@@ -1,6 +1,6 @@
 # RESTapi
 
-This project is a REST API application built with Django and Django REST framework. The application models two main entities: Company and Employee. It provides endpoints to perform CRUD operations on these entities.
+This project is a REST API application built with Django and Django REST framework. The application models two main entities: Company and Employee. It provides endpoints to perform CRUD operations on these entities.<br /> 
 <br />
 Endpoints<br />
 GET /companies/: List all companies.<br />
