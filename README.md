@@ -2,7 +2,8 @@
 
 This project is a REST API application built with Django and Django REST framework. The application models two main entities: Company and Employee. It provides endpoints to perform CRUD operations on these entities.<br /> 
 <br />
-Endpoints<br />
+Endpoints <br />
+<br />
 GET /companies/: List all companies.<br />
 POST /companies/: Create a new company.<br />
 GET /companies/{id}/: Retrieve a company by ID.<br />
